@@ -1,7 +1,7 @@
 package MavenPractice;
 
 import org.testng.annotations.Test;
-
+//test2 maven practice
 public class Test2 {
 	@Test
 	public void demo1() {
