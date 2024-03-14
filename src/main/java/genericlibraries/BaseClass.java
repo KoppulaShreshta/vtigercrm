@@ -20,7 +20,7 @@ import pomPages.NewEventdetailsPage;
 import pomPages.NewLeadDetailsPage;
 import pomPages.NewOrgDetailsPage;
 import pomPages.OrganizationsPage;
-
+//open base class
 public class BaseClass {
 	// @BeforeSuite
 	// @BeforeTest
