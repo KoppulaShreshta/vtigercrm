@@ -1,6 +1,6 @@
 package MavenPractice;
 import org.testng.annotations.Test;
-
+//test1 in maven paractice
 public class Test1 {
 	@Test
 	
